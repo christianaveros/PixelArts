@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_player_atk3.png-269915b930620fb32c564bef785d61fb.stex"
+
+[deps]
+
+source_file="res://Textures/player textures/spr_player_atk3.png"
+source_md5="3d06012376afdf2b7c2b3cb7d91a9f3a"
+
+dest_files=[ "res://.import/spr_player_atk3.png-269915b930620fb32c564bef785d61fb.stex" ]
+dest_md5="546696d67630bb4d71a2633229e104fc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

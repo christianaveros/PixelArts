@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_srollr_idle6.png-9aaff920f6be442624331869a5f6478c.stex"
+
+[deps]
+
+source_file="res://Textures/enemy textures/Srollr/spr_srollr_idle6.png"
+source_md5="b6e842f13be034ee46880e064231623f"
+
+dest_files=[ "res://.import/spr_srollr_idle6.png-9aaff920f6be442624331869a5f6478c.stex" ]
+dest_md5="5753763a9b52591641d5ce69a3bec80b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

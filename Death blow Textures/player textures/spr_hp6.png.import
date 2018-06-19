@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_hp6.png-06bca4c2f350d4a92cfe7e10d921c3f6.stex"
+
+[deps]
+
+source_file="res://Textures/player textures/spr_hp6.png"
+source_md5="8e6a8c9cff4bb539858a7fb5752eedc8"
+
+dest_files=[ "res://.import/spr_hp6.png-06bca4c2f350d4a92cfe7e10d921c3f6.stex" ]
+dest_md5="f280b346bdb0cdfaa3cfef27d7c5a969"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

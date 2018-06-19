@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_stamina1.png-22defcc8a7fa990cb83817b9e325d796.stex"
+
+[deps]
+
+source_file="res://Textures/player textures/spr_stamina1.png"
+source_md5="93377671cfaa8f749928f3167a151efa"
+
+dest_files=[ "res://.import/spr_stamina1.png-22defcc8a7fa990cb83817b9e325d796.stex" ]
+dest_md5="df1ab15b9135f6f1295fb0afb0b54c2c"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

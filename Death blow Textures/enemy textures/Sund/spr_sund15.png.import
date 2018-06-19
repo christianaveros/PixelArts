@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_sund15.png-4747aa9709c5b0ef20151f18f63b73da.stex"
+
+[deps]
+
+source_file="res://Textures/enemy textures/Sund/spr_sund15.png"
+source_md5="fda420c34d6953a06e5e73a49deabc88"
+
+dest_files=[ "res://.import/spr_sund15.png-4747aa9709c5b0ef20151f18f63b73da.stex" ]
+dest_md5="ebc3e0cbfb9cc22ed1811cad72a81e86"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

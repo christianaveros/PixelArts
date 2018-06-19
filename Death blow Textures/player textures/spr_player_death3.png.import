@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_player_death3.png-749ac91bea7492039ee55505bc5638a9.stex"
+
+[deps]
+
+source_file="res://Textures/player textures/spr_player_death3.png"
+source_md5="b6b32a9b69c73aecf1fe78c1bf1237ae"
+
+dest_files=[ "res://.import/spr_player_death3.png-749ac91bea7492039ee55505bc5638a9.stex" ]
+dest_md5="18255dddd28947bb3a05e75d15b36334"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

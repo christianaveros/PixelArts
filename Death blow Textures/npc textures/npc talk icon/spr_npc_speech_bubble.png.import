@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_npc_speech_bubble.png-d466f6c8ddac594d92af132b0a965795.stex"
+
+[deps]
+
+source_file="res://Textures/npc textures/npc talk icon/spr_npc_speech_bubble.png"
+source_md5="47e661d55704c8bfd45853f0cbd0691a"
+
+dest_files=[ "res://.import/spr_npc_speech_bubble.png-d466f6c8ddac594d92af132b0a965795.stex" ]
+dest_md5="0ff5784c9a5bfd8a4b4a493b20ee02af"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

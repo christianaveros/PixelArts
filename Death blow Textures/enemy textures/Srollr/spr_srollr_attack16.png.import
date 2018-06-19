@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_srollr_attack16.png-573f60854dc67118c1471f8bb672b2a3.stex"
+
+[deps]
+
+source_file="res://Textures/enemy textures/Srollr/spr_srollr_attack16.png"
+source_md5="b8a6b356723dad1d8e169aca83a92c07"
+
+dest_files=[ "res://.import/spr_srollr_attack16.png-573f60854dc67118c1471f8bb672b2a3.stex" ]
+dest_md5="a2c79f16463b264d4c51efdff4e6a3bb"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

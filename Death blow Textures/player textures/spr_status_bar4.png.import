@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_status_bar4.png-4f447b863285416c33261ed6f7790ac5.stex"
+
+[deps]
+
+source_file="res://Textures/player textures/spr_status_bar4.png"
+source_md5="33c0373a378cb4043a11ec25efd425dd"
+
+dest_files=[ "res://.import/spr_status_bar4.png-4f447b863285416c33261ed6f7790ac5.stex" ]
+dest_md5="44a655ad56f3f77bd3c7dbd60d3857f0"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

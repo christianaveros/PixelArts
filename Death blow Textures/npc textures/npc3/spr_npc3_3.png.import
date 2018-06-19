@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_npc3_3.png-7e7504b7e30158bb0ed3e4a9d3307361.stex"
+
+[deps]
+
+source_file="res://Textures/npc textures/npc3/spr_npc3_3.png"
+source_md5="7024eeb54b96e7ebd311a20bbcd44bb4"
+
+dest_files=[ "res://.import/spr_npc3_3.png-7e7504b7e30158bb0ed3e4a9d3307361.stex" ]
+dest_md5="44a6b194c01956babc61af18d3c600e8"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0

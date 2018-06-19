@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/spr_player.roll3.png-6d114f345d658e5174964331d4e90aec.stex"
+
+[deps]
+
+source_file="res://Textures/player textures/spr_player.roll3.png"
+source_md5="4d07ff3d43c18d404167a382ae2e5150"
+
+dest_files=[ "res://.import/spr_player.roll3.png-6d114f345d658e5174964331d4e90aec.stex" ]
+dest_md5="24695821b2b5ecdcf89b359efda1c39f"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
